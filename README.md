@@ -7,18 +7,22 @@
 - `/java/`、`/python/`、`/web/` ...：各語言/課程分類資料夾，存放一般作業或練習題
 - `/featured/`：特別專案，採用 submodule 管理，保留原 repo 歷史與獨立性
 
+---
+
+## Featured 專案
+
+### [107-2_Java](https://github.com/CHunYenc/107-2_Java)
+- Java 入門第一堂課的期末專案：GUI（JFrame）+ MySQL 連線登入系統
+- 結構完整，附有簡報與詳細 README
+- 具備個人特色與展示價值
+
+---
+
 ## 如何加入特別專案（submodule）
 
 ```bash
-git submodule add <repo-url> featured/<repo-name>
+git submodule add https://github.com/CHunYenc/107-2_Java.git featured/107-2_Java
 ```
-
-## 推薦整理流程
-
-1. 將一般作業依主題分類放入對應資料夾
-2. 重要/代表性專案以 submodule 方式加入 `featured/`
-3. 每個子資料夾可放置 README 說明用途
-4. 歡迎持續補充、優化
 
 ---
 
