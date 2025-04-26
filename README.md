@@ -11,10 +11,19 @@
 
 ## Featured 專案
 
-### [107-2_Java](https://github.com/CHunYenc/107-2_Java)
-- Java 入門第一堂課的期末專案：GUI（JFrame）+ MySQL 連線登入系統
-- 結構完整，附有簡報與詳細 README
-- 具備個人特色與展示價值
+### [107-2_Java 視窗化程式課程期末專案](https://github.com/CHunYenc/107-2_Java)
+1. 完成時期：大二下學期（107-2）
+2. 專案特色：
+   - 技術整合：結合資料庫、視窗介面與使用者認證，展現基本開發能力
+   - 自主學習：學習並應用 Java Swing、JDBC 等課程外的技術
+3. 技術亮點：
+   - Java Swing 視窗開發與介面設計
+   - MySQL 資料庫設計與 JDBC 連線操作
+   - NetBeans IDE 專案管理與建置
+4. 專案完整度：
+   - 附有完整技術簡報
+   - 詳細的 README 安裝與使用說明
+   - 包含原始碼、資料庫腳本與相依套件
 
 ---
 
