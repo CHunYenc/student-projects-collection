@@ -1,3 +1,6 @@
 [submodule "featured/107-2_Java"]
 	path = featured/107-2_Java
-	url = https://github.com/CHunYenc/107-2_Java.git
+	url = https://github.com/yen-study-chu/1072_JavaSwift.git
+[submodule "featured/108-2_androidstudio_final"]
+	path = featured/108-2_androidstudio_final
+	url = https://github.com/yen-study-chu/1082_AndroidFinal.git
