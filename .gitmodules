@@ -7,3 +7,9 @@
 [submodule "featured/DromNet_LineBot"]
 	path = featured/DromNet_LineBot
 	url = https://github.com/yen-study-chu/DromNet_LineBot.git
+[submodule "learning/1081_R"]
+	path = learning/1081_R
+	url = https://github.com/yen-study-chu/1081_R.git
+[submodule "learning/1082_Android"]
+	path = learning/1082_Android
+	url = https://github.com/yen-study-chu/1082_Android.git
