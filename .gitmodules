@@ -13,3 +13,6 @@
 [submodule "learning/1082_Android"]
 	path = learning/1082_Android
 	url = https://github.com/yen-study-chu/1082_Android.git
+[submodule "learning/1072_Python"]
+	path = learning/1072_Python
+	url = https://github.com/yen-study-chu/1072_Python.git
