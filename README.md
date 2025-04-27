@@ -51,6 +51,25 @@
 
 ---
 
+### [DromNet_LineBot](https://github.com/yen-study-chu/DromNet_LineBot)
+1. 完成時期：工讀專案
+2. 專案特色：
+   - 實用性：為中華大學宿網會開發的 LINE 機器人，提供住宿同學可以進行網路報修、帳號密碼查詢等等簡易功能
+   - 整合性：結合 LINE Messaging API 與自動化服務功能
+   - 持續運行：目前仍在線上服務中
+3. 技術亮點：
+   - Python Flask 後端開發
+   - LINE Bot SDK 整合
+   - 雲端部署與持續運行
+4. 專案完整度：
+   - 功能完整的 LINE 機器人
+   - 可擴展架構設計
+   - 實際應用於校園服務
+
+> 本專案為課外實用工具，持續維護中。
+
+---
+
 ## 如何加入特別專案（submodule）
 
 ```bash

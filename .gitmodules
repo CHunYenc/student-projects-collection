@@ -4,3 +4,6 @@
 [submodule "featured/108-2_androidstudio_final"]
 	path = featured/108-2_androidstudio_final
 	url = https://github.com/yen-study-chu/1082_AndroidFinal.git
+[submodule "featured/DromNet_LineBot"]
+	path = featured/DromNet_LineBot
+	url = https://github.com/yen-study-chu/DromNet_LineBot.git
